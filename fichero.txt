@@ -1,0 +1,4 @@
+primeras
+lines
+del
+fichero
