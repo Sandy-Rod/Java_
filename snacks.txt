@@ -1,0 +1,8 @@
+1,Patatas,80.0
+2,Refresco Naranja,70.0
+3,Refresco Limon,72.0
+4,Galletas Principe,69.0
+5,Filipinos,58.0
+6,Sandwich de pollo,96.0
+7,Chocolate con leche,150.35
+8,nachos,80.59
