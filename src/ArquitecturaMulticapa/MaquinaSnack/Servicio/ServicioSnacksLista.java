@@ -1,6 +1,6 @@
-package ArquitecturaMulticapa.Servicio;
+package ArquitecturaMulticapa.MaquinaSnack.Servicio;
 
-import ArquitecturaMulticapa.Dominio.Snack;
+import ArquitecturaMulticapa.MaquinaSnack.Dominio.Snack;
 
 import java.util.ArrayList;
 import java.util.List;

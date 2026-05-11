@@ -1,4 +1,4 @@
-package ArquitecturaMulticapa.Dominio;
+package ArquitecturaMulticapa.MaquinaSnack.Dominio;
 
 
 import java.io.Serializable;

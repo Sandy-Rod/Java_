@@ -1,6 +1,6 @@
-package ArquitecturaMulticapa.Servicio;
+package ArquitecturaMulticapa.MaquinaSnack.Servicio;
 
-import ArquitecturaMulticapa.Dominio.Snack;
+import ArquitecturaMulticapa.MaquinaSnack.Dominio.Snack;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -9,7 +9,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 public class ServicioSnacksArchivos  implements  IServicioSnacks{
     private final String NAME_FILE = "snacks.txt";

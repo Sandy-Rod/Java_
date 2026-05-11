@@ -1,9 +1,8 @@
-package ArquitecturaMulticapa.Presentacion;
+package ArquitecturaMulticapa.MaquinaSnack.Presentacion;
 
-import ArquitecturaMulticapa.Dominio.Snack;
-import ArquitecturaMulticapa.Servicio.IServicioSnacks;
-import ArquitecturaMulticapa.Servicio.ServicioSnacksArchivos;
-import ArquitecturaMulticapa.Servicio.ServicioSnacksLista;
+import ArquitecturaMulticapa.MaquinaSnack.Dominio.Snack;
+import ArquitecturaMulticapa.MaquinaSnack.Servicio.IServicioSnacks;
+import ArquitecturaMulticapa.MaquinaSnack.Servicio.ServicioSnacksArchivos;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -11,6 +10,7 @@ import java.util.Scanner;
 
 public class MaquinaSnack {
     public static void main(String[] args) {
+
         maquinaSnacks();
     }
 
